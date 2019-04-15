@@ -179,6 +179,11 @@ public class Tela_cadastro extends JFrame{
 		lblRG.setBounds(10, 220, 200, 30);
 		paine.add(lblRG);
 		
+		btnSALV.setBounds(270,270,110,30);
+		paine.add(btnSALV);
+		
+		btnIMPRI.setBounds(385,270,110,30);
+		paine.add(btnIMPRI);
 		
 		
 		
